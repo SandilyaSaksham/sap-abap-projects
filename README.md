@@ -1,4 +1,4 @@
-# SAP ABAP Projects — Fresher Portfolio
+# SAP ABAP Projects 
 
 3 SAP ABAP programs demonstrating core concepts used in real SAP development.
 
